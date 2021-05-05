@@ -1,7 +1,7 @@
 # Resources Accessed
 
 ## Which resources are popular?
-![Resources Accessed view](../_assets/MyLA_ResourcesAccessedView.png)
+![Resources Accessed view](../../_assets/images/MyLA_ResourcesAccessedView.png)
 
 In the Resources Accessed view you can check out which files, videos, and other resources are accessed most often by your classmates.
 
@@ -17,7 +17,7 @@ You can also set a preferred default for the grade ranking filter.
 You can customize the display, use mouse overs for more information, or click on a file name to access a resource.
 
 ### Select a Time Range
-![Resources Accessed slider](../_assets/MyLA_ResourcesAccessedWeekSlider.png)
+![Resources Accessed slider](../../_assets/images/MyLA_ResourcesAccessedWeekSlider.png)
 
 The default view shows you what was accessed this week and last week. You can use the slider ends to change that time range. Move a slider and watch the list update below!
 
@@ -33,7 +33,7 @@ The chart defaults to show all available resource types in your course. You can 
 Use the brush control on the right side of the chart to select how many of the resources display in the main visualization. Drag the bottom line down to see more. Drag it up to see fewer.
 
 ### Brush slider image
-![brush slider](../_assets/myla-resources-accessed-3.png)
+![brush slider](../../_assets/images/myla-resources-accessed-3.png)
 
 Mouse over a bar for more information. If it's a resource you've accessed, then you can see how many times you viewed it and when you last viewed it.
 

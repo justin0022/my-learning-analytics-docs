@@ -1,6 +1,6 @@
 # Assignment Planning
 ## View your progress & upcoming assignments & set goals
-![Assignment Planning view](../_assets/MyLA_AssignmentPlanningOverview.png)
+![Assignment Planning view](../../_assets/images/MyLA_AssignmentPlanningOverview.png)
 
 The Assignment Planning page shows two different assignment visualizations:
 
@@ -13,7 +13,7 @@ The Assignment Planning page shows two different assignment visualizations:
 ## Minimum Goal
 **Using My Minimum Goal (%)**
 
-![minimum goal setting](../_assets/MyLA_AP_CourseGoal.png)
+![minimum goal setting](../../_assets/images/MyLA_AP_CourseGoal.png)
 
 * Set a minimum course goal as a percentage by typing in a number or using the up/down arrows in the text box. When you do this, you’ll see your goal show up on the Grade Progress bar. MyLA will also calculate the grades you need to get on all ungraded assignments to meet that goal.
 * Use the Clear button to remove the course goal and all assignment goals.
@@ -21,7 +21,7 @@ The Assignment Planning page shows two different assignment visualizations:
 ## Grade Progress
 **Using the Grade Progress Bar**
 
-![grade progress bar](../_assets/MyLA_AP_ProgressBar.png)
+![grade progress bar](../../_assets/images/MyLA_AP_ProgressBar.png)
 
 * Current: The blue line and blue bar show your current grade in the course based on Canvas data.
 * Max Possible: The dark gray line shows the maximum possible grade you can earn in the course based on your assignments so far.
@@ -32,7 +32,7 @@ The Assignment Planning page shows two different assignment visualizations:
 ## Assignments Due by Date
 **Using the Assignments List**
 
-![assignment list](../_assets/MyLA_AP_AssignmentList.png)
+![assignment list](../../_assets/images/MyLA_AP_AssignmentList.png)
 
 * Use the drop-down option to decide which assignments you want to see in the list based on their impact on your grade. You can choose your default setting. Select a weight from the drop-down, then save it by checking "Remember my setting." This filter will be automatically applied each time you return to the page. You can change your default at any time.
 * Scroll up and down the list to see past and future assignments.
