@@ -1,7 +1,7 @@
 # Grade Distribution
 
 ## View the class grade distribution
-![Grade Distribution view](/_assets/images/MyLA_GradeDistribution.png)
+![Grade Distribution view](./_assets/images/MyLA_GradeDistribution.png)
 
 This visualization shows the distribution of grades in the class along with the number of students in the class and the average and median grades.
 
