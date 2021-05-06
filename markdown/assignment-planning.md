@@ -1,6 +1,6 @@
 # Assignment Planning
 ## View your progress & upcoming assignments & set goals
-![Assignment Planning view](../assets/images/MyLA_AssignmentPlanningOverview.png)
+![Assignment Planning view](./assets/images/MyLA_AssignmentPlanningOverview.png)
 
 The Assignment Planning page shows two different assignment visualizations:
 
