@@ -6,14 +6,14 @@ const ncp = require('ncp').ncp
 ncp.limit = 16
 
 // copy images into /docs
-ncp(path.join('_assets', 'images'), path.join('docs', '_assets', 'images'), err => err ? console.log(err) : null)
+ncp(path.join('assets', 'images'), path.join('docs', 'assets', 'images'), err => err ? console.log(err) : null)
 
 // copy css into /docs
-ncp(path.join('_assets', 'template', 'css'), path.join('docs', 'css'), err => err ? console.log(err) : null)
+ncp(path.join('assets', 'template', 'css'), path.join('docs', 'css'), err => err ? console.log(err) : null)
 
 const converter = new showdown.Converter()
 
-const template = fs.readFileSync(path.join('_assets', 'template', 'index.html'), 'utf8')
+const template = fs.readFileSync(path.join('assets', 'template', 'index.html'), 'utf8')
 
 const insertIntoTemplate = (content, template) => {
   const attachmentPoint = 'id="content">'
