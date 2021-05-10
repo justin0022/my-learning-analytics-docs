@@ -10,6 +10,7 @@ These instructions will get you a copy of the documentation up and running, with
 ### Building and hosting
 1. Fork this repository.
 1. Clone the forked repository.
+1. Run the installation script. `npm install` (If you see `babel-node: command not found`, you've missed this step.)
 1. Under `assets/template`, replace the existing `index.html` and `css/unit.css` with your university's web branding. You'll need to keep the HTML file named `index.html`. In this HTML file, you'll need to add a `<div id="content"></div>`, which is where the documentation will be attached.
 1. Run `node convertMD.js`. This outputs the static files under `/docs`.
 1. Everything within `/docs` will be published by Github Pages.
