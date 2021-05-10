@@ -19,3 +19,11 @@ These instructions will get you a copy of the documentation up and running, with
 1. If you have a custom domain, set it here.
 1. Commit/push your changes. Soon your documentation should be published at the URL linked on this page.
 
+## Authors
+
+* [justin0022](https://github.com/justin0022) -
+**Justin Lee** &lt;justin.lee@ubc.ca&gt;
+
+## License
+
+This project is licensed under the GNU General Public License v3.0.
