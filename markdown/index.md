@@ -7,8 +7,7 @@
 
 For ease of use, these visualizations can be accessed directly from the Canvas course navigation or from the relevant page view in Canvas, placing the links where the students already go for course-related information.
 
-MyLA was developed as a collaborative project between researchers from the School of Information and School of Education partnering with ITS Teaching & Learning.
-
+MyLA was developed as a collaborative project between researchers from the School of Information and School of Education partnering with ITS Teaching & Learning at the University of Michigan, with contributions from the University of British Columbia.
 ## Available Visualizations
 Instructors determine which visualizations to use with a Canvas course, so students may see different sets of visualizations for different courses.
 
