@@ -14,11 +14,6 @@ Instructors determine which visualizations to use with a Canvas course, so stude
 [Resources Accessed](resources-accessed.html): Students can see which files, videos, and other resources are popular in the course and accessed most often by classmates. Resources are color coded in blue if the student has accessed them or gray if they have not. File names have active links to immediately open resources they have missed.
 
 [Assignment Planning](assignment-planning.html): Students can view their progress and upcoming assignment two different ways: Progress to Final Grade or Assignments Due by Date. Students can also set course and assignment goals to help with their course planning and engagement.
-
-[Grade Distribution](grade-distribution.html): This visualization provides a bar chart that shows the distribution of grades in the class along with the number of students in the class, as well as the average and median grades. This visualization has been designed to address student privacy by binning low outlier grades.
-
-### Faculty: Include MyLA in a Winter 2021 Course
-Faculty interested in including MyLA in their Winter 2021 course(s) can add it to their Canvas courses. MyLA can be added to a Canvas course by enabling it from the Navigation items under the course settings. Once MyLA has been added to a course, instructors can select which visualizations to use by clicking a checkbox for each view. The three views are intended to be used together, but faculty can turn off any of the three views that may not fit their course design.
-
-Learn more about using MyLA in the Information for Faculty section of this site. Learn more about MyLA and the design approach in the support section of this site.
+### Pilot
+The [LT Hub](https://lthub.ubc.ca/) is looking for instructors to test student dashboards in their Canvas courses. MyLA gives students insight into their engagement with the course content, encouraging them toward behavioural patterns that can improve academic outcomes. Please contact us at the [LT Hub](https://lthub.ubc.ca/) if you’d like to try out this new tool.
 
