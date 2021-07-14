@@ -3,7 +3,6 @@
 
 * reveal behavioral patterns associated with good learning skills,
 * guide decisions about actions students can take that may improve their academic outcomes,
-* and provide a transparent view of students’ course standing.
 
 For ease of use, these visualizations can be accessed directly from the Canvas course navigation or from the relevant page view in Canvas, placing the links where the students already go for course-related information.
 
